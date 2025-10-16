@@ -17,4 +17,8 @@ add_executable(cses main.cpp
         "Sorting and Searching/Ferris wheel.cpp"
         "Sorting and Searching/Concert tickets.cpp"
         "Sorting and Searching/Restaurants customers.cpp"
-        "Sorting and Searching/movie festival.cpp")
+        "Sorting and Searching/movie festival.cpp"
+        "Sorting and Searching/Sum of two values.cpp"
+        "Sorting and Searching/Maximum Subarray Sum.cpp"
+        "Sorting and Searching/Stick lengths.cpp"
+        "Sorting and Searching/Missing coin sum.cpp")

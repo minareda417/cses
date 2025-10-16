@@ -278,6 +278,62 @@ CMakeFiles/cses.dir/Sorting_and_Searching/movie_festival.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cses.dir/Sorting_and_Searching/movie_festival.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\movie festival.cpp" -o CMakeFiles\cses.dir\Sorting_and_Searching\movie_festival.cpp.s
 
+CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj: CMakeFiles/cses.dir/flags.make
+CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj: C:/Users/ADMIN/CLionProjects/cses/Sorting\ and\ Searching/Sum\ of\ two\ values.cpp
+CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj: CMakeFiles/cses.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\ADMIN\CLionProjects\cses\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj -MF CMakeFiles\cses.dir\Sorting_and_Searching\Sum_of_two_values.cpp.obj.d -o CMakeFiles\cses.dir\Sorting_and_Searching\Sum_of_two_values.cpp.obj -c "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Sum of two values.cpp"
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Sum of two values.cpp" > CMakeFiles\cses.dir\Sorting_and_Searching\Sum_of_two_values.cpp.i
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Sum of two values.cpp" -o CMakeFiles\cses.dir\Sorting_and_Searching\Sum_of_two_values.cpp.s
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj: CMakeFiles/cses.dir/flags.make
+CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj: C:/Users/ADMIN/CLionProjects/cses/Sorting\ and\ Searching/Maximum\ Subarray\ Sum.cpp
+CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj: CMakeFiles/cses.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\ADMIN\CLionProjects\cses\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj -MF CMakeFiles\cses.dir\Sorting_and_Searching\Maximum_Subarray_Sum.cpp.obj.d -o CMakeFiles\cses.dir\Sorting_and_Searching\Maximum_Subarray_Sum.cpp.obj -c "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Maximum Subarray Sum.cpp"
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Maximum Subarray Sum.cpp" > CMakeFiles\cses.dir\Sorting_and_Searching\Maximum_Subarray_Sum.cpp.i
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Maximum Subarray Sum.cpp" -o CMakeFiles\cses.dir\Sorting_and_Searching\Maximum_Subarray_Sum.cpp.s
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj: CMakeFiles/cses.dir/flags.make
+CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj: C:/Users/ADMIN/CLionProjects/cses/Sorting\ and\ Searching/Stick\ lengths.cpp
+CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj: CMakeFiles/cses.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\ADMIN\CLionProjects\cses\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj -MF CMakeFiles\cses.dir\Sorting_and_Searching\Stick_lengths.cpp.obj.d -o CMakeFiles\cses.dir\Sorting_and_Searching\Stick_lengths.cpp.obj -c "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Stick lengths.cpp"
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Stick lengths.cpp" > CMakeFiles\cses.dir\Sorting_and_Searching\Stick_lengths.cpp.i
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Stick lengths.cpp" -o CMakeFiles\cses.dir\Sorting_and_Searching\Stick_lengths.cpp.s
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj: CMakeFiles/cses.dir/flags.make
+CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj: C:/Users/ADMIN/CLionProjects/cses/Sorting\ and\ Searching/Missing\ coin\ sum.cpp
+CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj: CMakeFiles/cses.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\ADMIN\CLionProjects\cses\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj -MF CMakeFiles\cses.dir\Sorting_and_Searching\Missing_coin_sum.cpp.obj.d -o CMakeFiles\cses.dir\Sorting_and_Searching\Missing_coin_sum.cpp.obj -c "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Missing coin sum.cpp"
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Missing coin sum.cpp" > CMakeFiles\cses.dir\Sorting_and_Searching\Missing_coin_sum.cpp.i
+
+CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ADMIN\CLionProjects\cses\Sorting and Searching\Missing coin sum.cpp" -o CMakeFiles\cses.dir\Sorting_and_Searching\Missing_coin_sum.cpp.s
+
 # Object files for target cses
 cses_OBJECTS = \
 "CMakeFiles/cses.dir/main.cpp.obj" \
@@ -294,7 +350,11 @@ cses_OBJECTS = \
 "CMakeFiles/cses.dir/Sorting_and_Searching/Ferris_wheel.cpp.obj" \
 "CMakeFiles/cses.dir/Sorting_and_Searching/Concert_tickets.cpp.obj" \
 "CMakeFiles/cses.dir/Sorting_and_Searching/Restaurants_customers.cpp.obj" \
-"CMakeFiles/cses.dir/Sorting_and_Searching/movie_festival.cpp.obj"
+"CMakeFiles/cses.dir/Sorting_and_Searching/movie_festival.cpp.obj" \
+"CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj" \
+"CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj" \
+"CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj" \
+"CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj"
 
 # External object files for target cses
 cses_EXTERNAL_OBJECTS =
@@ -314,11 +374,15 @@ cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Ferris_wheel.cpp.obj
 cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Concert_tickets.cpp.obj
 cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Restaurants_customers.cpp.obj
 cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/movie_festival.cpp.obj
+cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj
+cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj
+cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj
+cses.exe: CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj
 cses.exe: CMakeFiles/cses.dir/build.make
 cses.exe: CMakeFiles/cses.dir/linkLibs.rsp
 cses.exe: CMakeFiles/cses.dir/objects1.rsp
 cses.exe: CMakeFiles/cses.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\ADMIN\CLionProjects\cses\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable cses.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\ADMIN\CLionProjects\cses\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable cses.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cses.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

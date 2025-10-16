@@ -224,6 +224,54 @@ Sorting_and_Searching/Ferris_wheel.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Ferris_wheel.cpp.s
 .PHONY : Sorting_and_Searching/Ferris_wheel.cpp.s
 
+Sorting_and_Searching/Maximum_Subarray_Sum.obj: Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj
+.PHONY : Sorting_and_Searching/Maximum_Subarray_Sum.obj
+
+# target to build an object file
+Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj
+.PHONY : Sorting_and_Searching/Maximum_Subarray_Sum.cpp.obj
+
+Sorting_and_Searching/Maximum_Subarray_Sum.i: Sorting_and_Searching/Maximum_Subarray_Sum.cpp.i
+.PHONY : Sorting_and_Searching/Maximum_Subarray_Sum.i
+
+# target to preprocess a source file
+Sorting_and_Searching/Maximum_Subarray_Sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.i
+.PHONY : Sorting_and_Searching/Maximum_Subarray_Sum.cpp.i
+
+Sorting_and_Searching/Maximum_Subarray_Sum.s: Sorting_and_Searching/Maximum_Subarray_Sum.cpp.s
+.PHONY : Sorting_and_Searching/Maximum_Subarray_Sum.s
+
+# target to generate assembly for a file
+Sorting_and_Searching/Maximum_Subarray_Sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Maximum_Subarray_Sum.cpp.s
+.PHONY : Sorting_and_Searching/Maximum_Subarray_Sum.cpp.s
+
+Sorting_and_Searching/Missing_coin_sum.obj: Sorting_and_Searching/Missing_coin_sum.cpp.obj
+.PHONY : Sorting_and_Searching/Missing_coin_sum.obj
+
+# target to build an object file
+Sorting_and_Searching/Missing_coin_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.obj
+.PHONY : Sorting_and_Searching/Missing_coin_sum.cpp.obj
+
+Sorting_and_Searching/Missing_coin_sum.i: Sorting_and_Searching/Missing_coin_sum.cpp.i
+.PHONY : Sorting_and_Searching/Missing_coin_sum.i
+
+# target to preprocess a source file
+Sorting_and_Searching/Missing_coin_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.i
+.PHONY : Sorting_and_Searching/Missing_coin_sum.cpp.i
+
+Sorting_and_Searching/Missing_coin_sum.s: Sorting_and_Searching/Missing_coin_sum.cpp.s
+.PHONY : Sorting_and_Searching/Missing_coin_sum.s
+
+# target to generate assembly for a file
+Sorting_and_Searching/Missing_coin_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Missing_coin_sum.cpp.s
+.PHONY : Sorting_and_Searching/Missing_coin_sum.cpp.s
+
 Sorting_and_Searching/Restaurants_customers.obj: Sorting_and_Searching/Restaurants_customers.cpp.obj
 .PHONY : Sorting_and_Searching/Restaurants_customers.obj
 
@@ -247,6 +295,54 @@ Sorting_and_Searching/Restaurants_customers.s: Sorting_and_Searching/Restaurants
 Sorting_and_Searching/Restaurants_customers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Restaurants_customers.cpp.s
 .PHONY : Sorting_and_Searching/Restaurants_customers.cpp.s
+
+Sorting_and_Searching/Stick_lengths.obj: Sorting_and_Searching/Stick_lengths.cpp.obj
+.PHONY : Sorting_and_Searching/Stick_lengths.obj
+
+# target to build an object file
+Sorting_and_Searching/Stick_lengths.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.obj
+.PHONY : Sorting_and_Searching/Stick_lengths.cpp.obj
+
+Sorting_and_Searching/Stick_lengths.i: Sorting_and_Searching/Stick_lengths.cpp.i
+.PHONY : Sorting_and_Searching/Stick_lengths.i
+
+# target to preprocess a source file
+Sorting_and_Searching/Stick_lengths.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.i
+.PHONY : Sorting_and_Searching/Stick_lengths.cpp.i
+
+Sorting_and_Searching/Stick_lengths.s: Sorting_and_Searching/Stick_lengths.cpp.s
+.PHONY : Sorting_and_Searching/Stick_lengths.s
+
+# target to generate assembly for a file
+Sorting_and_Searching/Stick_lengths.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Stick_lengths.cpp.s
+.PHONY : Sorting_and_Searching/Stick_lengths.cpp.s
+
+Sorting_and_Searching/Sum_of_two_values.obj: Sorting_and_Searching/Sum_of_two_values.cpp.obj
+.PHONY : Sorting_and_Searching/Sum_of_two_values.obj
+
+# target to build an object file
+Sorting_and_Searching/Sum_of_two_values.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.obj
+.PHONY : Sorting_and_Searching/Sum_of_two_values.cpp.obj
+
+Sorting_and_Searching/Sum_of_two_values.i: Sorting_and_Searching/Sum_of_two_values.cpp.i
+.PHONY : Sorting_and_Searching/Sum_of_two_values.i
+
+# target to preprocess a source file
+Sorting_and_Searching/Sum_of_two_values.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.i
+.PHONY : Sorting_and_Searching/Sum_of_two_values.cpp.i
+
+Sorting_and_Searching/Sum_of_two_values.s: Sorting_and_Searching/Sum_of_two_values.cpp.s
+.PHONY : Sorting_and_Searching/Sum_of_two_values.s
+
+# target to generate assembly for a file
+Sorting_and_Searching/Sum_of_two_values.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cses.dir\build.make CMakeFiles/cses.dir/Sorting_and_Searching/Sum_of_two_values.cpp.s
+.PHONY : Sorting_and_Searching/Sum_of_two_values.cpp.s
 
 Sorting_and_Searching/movie_festival.obj: Sorting_and_Searching/movie_festival.cpp.obj
 .PHONY : Sorting_and_Searching/movie_festival.obj
@@ -509,9 +605,21 @@ help:
 	@echo ... Sorting_and_Searching/Ferris_wheel.obj
 	@echo ... Sorting_and_Searching/Ferris_wheel.i
 	@echo ... Sorting_and_Searching/Ferris_wheel.s
+	@echo ... Sorting_and_Searching/Maximum_Subarray_Sum.obj
+	@echo ... Sorting_and_Searching/Maximum_Subarray_Sum.i
+	@echo ... Sorting_and_Searching/Maximum_Subarray_Sum.s
+	@echo ... Sorting_and_Searching/Missing_coin_sum.obj
+	@echo ... Sorting_and_Searching/Missing_coin_sum.i
+	@echo ... Sorting_and_Searching/Missing_coin_sum.s
 	@echo ... Sorting_and_Searching/Restaurants_customers.obj
 	@echo ... Sorting_and_Searching/Restaurants_customers.i
 	@echo ... Sorting_and_Searching/Restaurants_customers.s
+	@echo ... Sorting_and_Searching/Stick_lengths.obj
+	@echo ... Sorting_and_Searching/Stick_lengths.i
+	@echo ... Sorting_and_Searching/Stick_lengths.s
+	@echo ... Sorting_and_Searching/Sum_of_two_values.obj
+	@echo ... Sorting_and_Searching/Sum_of_two_values.i
+	@echo ... Sorting_and_Searching/Sum_of_two_values.s
 	@echo ... Sorting_and_Searching/movie_festival.obj
 	@echo ... Sorting_and_Searching/movie_festival.i
 	@echo ... Sorting_and_Searching/movie_festival.s
